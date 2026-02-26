@@ -1,0 +1,55 @@
+{
+  "name": "taste-skills",
+  "version": "0.1.0",
+  "description": "Agent skills for design taste and visual judgment. Hierarchy, typography, color, spacing, interaction quality, and the invisible decisions that separate good design from great design.",
+  "keywords": [
+    "agent-skills",
+    "ai",
+    "design",
+    "taste",
+    "visual-design",
+    "typography",
+    "hierarchy",
+    "ux",
+    "ui",
+    "design-critique",
+    "design-systems",
+    "color",
+    "spacing",
+    "interaction-design",
+    "motion-design",
+    "claude-code",
+    "cursor",
+    "windsurf",
+    "opencode",
+    "cline",
+    "codex",
+    "aider",
+    "skills"
+  ],
+  "author": "Dragoon",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xDragoon/taste-skills"
+  },
+  "homepage": "https://github.com/0xDragoon/taste-skills",
+  "bugs": {
+    "url": "https://github.com/0xDragoon/taste-skills/issues"
+  },
+  "bin": {
+    "taste-skills": "./bin/cli.mjs"
+  },
+  "type": "module",
+  "files": [
+    "bin/",
+    "skills/",
+    "LICENSE",
+    "DISCLAIMER.md",
+    "TERMS.md",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
