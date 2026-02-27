@@ -51,7 +51,7 @@ Works with any agent that supports SKILL.md files:
 
 ## Skills
 
-### Perception (4)
+### Perception (5)
 
 | Skill | Description |
 |---|---|
@@ -59,8 +59,9 @@ Works with any agent that supports SKILL.md files:
 | `detail-observation` | Micro-decision analysis. Catalog the border radii, spacing scales, and type sizes nobody else notices. |
 | `cross-domain-seeing` | Pull design principles from architecture, fashion, film, and physical spaces into screen design. |
 | `screenshot-surgery` | Annotate and map the anatomy of any design. Hierarchy, spacing, color roles, tension points. |
+| `consumption-discipline` | Structured exposure habits for building taste. Consume more than you create, actively and across domains. |
 
-### Judgment (4)
+### Judgment (6)
 
 | Skill | Description |
 |---|---|
@@ -68,6 +69,8 @@ Works with any agent that supports SKILL.md files:
 | `taste-vs-trends` | Tell the difference between decisions that age well and decisions that follow the crowd. |
 | `constraint-evaluation` | Understand the constraints a design was built under and evaluate quality within that context. |
 | `tradeoff-assessment` | Name what was prioritized, what was sacrificed, and whether the tradeoff was right. |
+| `taste-gap` | Navigate the gap between what you can see and what you can make. The Ira Glass gap. |
+| `taste-as-strategy` | Use taste as a competitive moat. In the AI era, execution is commoditized. Taste is the edge. |
 
 ### Analysis (4)
 
@@ -128,13 +131,14 @@ Works with any agent that supports SKILL.md files:
 | `daily-routines` | 15-minute daily taste exercises. Monday through Friday. Compound over time. |
 | `teaching-taste` | Help other designers develop judgment without imposing your style. |
 
-### Evaluation (3)
+### Evaluation (4)
 
 | Skill | Description |
 |---|---|
 | `self-assessment` | Diagnose your taste gaps across six skill areas. Know what to practice. |
 | `quality-checklist` | Systematic design quality evaluation. Hierarchy, type, color, space, craft, system. |
 | `field-notes` | Structured taste breakdowns of real products. The format for making taste legible. |
+| `learning-by-making` | Build taste through volume, deliberate failure, and speed. Make things, even when they're bad. |
 
 ## How skills work
 
