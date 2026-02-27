@@ -1,4 +1,4 @@
-# taste-skills
+# Taste-Skills
 
 Agent skills for design taste and visual judgment. Help AI coding agents evaluate hierarchy, typography, color, spacing, interaction quality, and the invisible decisions that separate good design from great design before they ship.
 
